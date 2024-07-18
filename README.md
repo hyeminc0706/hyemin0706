@@ -1,6 +1,14 @@
+# 웹퍼블리셔 지망생 : Min Choi
+## Creative, delicate & professional UI/UX designer
 
-Hi, I'm Min Choi
+### About Me
+- 1991 July 4th
+- based in Seoul, South Korea/VA, U.S.
+- ISFP
 
-Creative, delicate & professional UI/UX designer based in Seoul, South Korea. I deliever unique and sensational experience for the targetted users.
+### Contact Info.
+- hyeminc0706@gmail.com
 
-Now, explore my space!
+### Languages and Tool
+- KR/EN
+- HTML/CSS/SASS/AI/PS
